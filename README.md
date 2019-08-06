@@ -2,7 +2,7 @@
 
 A simple discord bot.
 
-## List of commands (work in very much progress)
+## List of commands (work very much in progress)
 
 **Build _champion_** : returns a link to an updated build for the champion given as an argument
 
